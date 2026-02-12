@@ -1,0 +1,10 @@
+[line 41] [INVALID_CHAR] Apostrophe found | raw=mobile'phone,Microsoft,SN-e2c36b1316aa726721ece3da4df41c1c
+[line 64] [EMPTY_FIELD] One or more fields are empty | raw=mobile phone,Sony,
+[line 80] [INVALID_CHAR] Apostrophe found | raw=vehicle,Ford',SN-7d14cb884e2d1f3ada4281993404846f
+[line 198] [EMPTY_FIELD] One or more fields are empty | raw=,Apple,SN-d48664bb07184c4532ee5593a14b40c9
+[line 341] [EMPTY_FIELD] One or more fields are empty | raw=vehicle,,SN-5d7e5653a2654bc4fd94ab94d3e803db
+[line 550] [EMPTY_FIELD] One or more fields are empty | raw=,,SN-2f2de0658c0961d21b1a967d7b2b5a0f
+[line 840] [TOO_MANY_FIELDS] Expected 3 fields, got 4 | raw=,,,
+[line 840] [EMPTY_FIELD] One or more fields are empty | raw=,,,
+[line 1514] [DUPLICATE_IDENTIFIER] Identifier already seen on 1500 | raw=projector,Panasonic,SN-a51aab3364f4fe91abfa2cc79945d28e
+[line 19014] [BAD_IDENTIFIER] Identifier does not match regex | raw=bdbe58a44b1bd859c5ada9eb70a55e27,bdbe58a44b1bd859c5ada9eb70a55e27,bdbe58a44b1bd859c5ada9eb70a55e27
